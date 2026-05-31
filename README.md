@@ -1,33 +1,34 @@
-# Привет, я Айдын 👋
+# Hi, I'm Aidyn^^
 
-🎓 Студент 3 курса | Будущий Backend разработчик  
-🚀 До этого занимался бизнесом — теперь строю карьеру в IT  
-🌍 Казахстан
+🎓 3rd year SDU student | Backend Developer
 
 ---
 
-## 💻 Стек
+## 💻 Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Liquibase](https://img.shields.io/badge/Liquibase-2962FF?style=for-the-badge&logo=liquibase&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 📚 Сейчас изучаю
+## 📚 Currently Learning
 
 - 🌱 Spring Boot / Spring Data JPA
-- 🏗️ Архитектурные паттерны
-- 🔍 Алгоритмы и структуры данных
+- 🏗️ Architecture Patterns
+- 🔍 Algorithms & Data Structures
 
 ---
 
-## 🛠️ Проекты
+## 🛠️ Projects
 
-| Проект | Описание | Стек |
-|--------|----------|------|
-| [Currency Exchange](https://github.com/Xasoek/currency-exchange) | Сервис обмена валют с автообновлением курсов от ЦБ РФ | Java, Spring Boot, PostgreSQL |
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [Currency Exchange](https://github.com/Xasoek/currency-exchange) | Currency exchange service with auto-update from Central Bank of Russia | Java, Spring Boot, PostgreSQL, Liquibase, JAXB |
 
 ---
 
@@ -36,7 +37,3 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Xasoek&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xasoek&layout=compact&theme=tokyonight)
-
----
-
-> 💡 *Из бизнеса в разработку — потому что хочу строить, а не только продавать*
