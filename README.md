@@ -13,6 +13,8 @@
 ![Liquibase](https://img.shields.io/badge/Liquibase-2962FF?style=for-the-badge&logo=liquibase&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-8.0-blue?style=flat&logo=gradle)
+![Telegram](https://img.shields.io/badge/Telegram_Bot_API-6.8-blue?style=flat&logo=telegram)
 
 ---
 
